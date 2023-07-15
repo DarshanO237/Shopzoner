@@ -1,4 +1,4 @@
-
+   
  var sidenav=document.getElementById('sidenav');
  var menubar=document.getElementById('menubar');
  sidenav.style.width="0px";
